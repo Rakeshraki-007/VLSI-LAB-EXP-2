@@ -29,12 +29,14 @@ not(notgate,a);
 endmodule
 ```
 ### Output:
-![image](https://github.com/Aravind00033/VLSI-LAB-EXP-1/assets/160571380/19648535-05d9-4da1-acc5-54d455df87f6)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-2/assets/161815387/ba4406e6-dbfc-4ea8-a761-def627420b76)
+
 
 ## Half Adder:
 
 ### Logic Diagram :
-![image](https://github.com/Aravind00033/VLSI-LAB-EXP-1/assets/160571380/4985a7ea-f033-4690-a618-1d900008e414)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-2/assets/161815387/e8fde878-1bf1-47bb-9736-51d37bdc9f71)
+
 
 ### Verilog Code:
 ```
@@ -46,8 +48,7 @@ and g2(carry,a,b);
 endmodule
 ```
 ### Output:
-![image](https://github.com/Aravind00033/VLSI-LAB-EXP-1/assets/160571380/b938d814-25a9-4182-809b-df743692173b)
-
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-2/assets/161815387/b8740b6a-eb2c-4a98-bf62-6f6edb1a7d2a)
 
 ## Full adder:
 
@@ -69,7 +70,8 @@ or g5(carry,w3,w2);
 endmodule
 ```
 ### Output:
-![image](https://github.com/Aravind00033/VLSI-LAB-EXP-1/assets/160571380/086dad45-0e58-4022-bf19-93af11089d5a)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-2/assets/161815387/6f867f87-d7e2-4bfb-abc8-7bd463715942)
+
 
 ## Half Subtractor:
 
@@ -90,7 +92,8 @@ endmodule
 
 ### Output:
 
-![image](https://github.com/Aravind00033/VLSI-LAB-EXP-1/assets/160571380/27f99667-01bf-4dbe-a7be-2ffd2a1d480c)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-2/assets/161815387/39138595-51ea-4bfd-9142-8ba5fdccd59f)
+
 
 
 ## Full Subtractor:
@@ -116,7 +119,7 @@ endmodule
 
 ### Output:
 
-![image](https://github.com/Aravind00033/VLSI-LAB-EXP-1/assets/160571380/999a262a-a3d1-4278-b1d1-58220942be28)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-2/assets/161815387/1393f500-70dc-4ade-bc69-b297525ee945)
 
 ## 8 Bit Ripple Carry Adder:
 
@@ -155,7 +158,7 @@ endmodule
 ```
 
 ### Output:
-![image](https://github.com/Aravind00033/VLSI-LAB-EXP-1/assets/160571380/de4a74f0-3e81-469a-9c5a-998b10b1b12b)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-2/assets/161815387/e965013f-308a-4f21-a9a9-5cd837e67a59)
 
 ## RESULT:
 Hence Logic Gates,Adders and Subtractor are simulated and synthesised using Xilinx ISE.
